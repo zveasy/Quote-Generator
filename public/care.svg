@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" fill="none">
+<circle cx="200" cy="156" r="122" fill="#e2b68a"/>
+<path d="M64 278c42-30 82-44 130-43 64-20 110-9 151 43z" fill="#649078"/>
+<!-- A seated hound in profile -->
+<path d="M132 277c-14-1-19-7-17-19 6-31 16-53 39-76l12-29-2-30-20-2c-12-2-16-11-19-20l30-11 12-20c3-4 11-6 19-5l15 1 5-17c8 7 14 19 15 31 9 18 11 34 7 55-2 15 0 30 9 48 12 23 18 43 15 67l-8 23-22 4H132z" fill="#224d43"/>
+<path d="M196 77c-11 4-13 14-17 29-3 10-7 13-11 17 11 5 23 0 29-13 6-12 4-24-1-33z" fill="#346355"/>
+<path d="M159 97a2.7 2.7 0 1 0 5.4 0 2.7 2.7 0 0 0-5.4 0" fill="#ecdeb9"/>
+<path d="M165 146c14 6 34 4 51-8" stroke="#d19770" stroke-width="5"/>
+<path d="M180 174c7 22 5 50-1 74l-3 13c-5 1-10 4-11 8m55-69c-16 7-22 26-18 46l3 12" stroke="#42705f" stroke-width="3" stroke-linecap="round"/>
+<!-- A cat settling alongside the hound -->
+<path d="M237 277c-12-1-20-8-19-22 1-17 8-29 20-44 5-6 7-14 5-20-5-1-9-6-11-11l-8-3 3-5 5-4 4-22 11 11c6-2 10-1 14 0l13-11 1 25c6 15 1 26 3 35 8 23 17 42 14 54-3 12-10 17-24 17z" fill="#f2d6b4"/>
+<path d="M287 270c13-2 22-12 20-25-1-10-10-18-8-27 0-5 4-8 8-6 4 2 2 5 3 9 0 6 8 17 9 25 4 23-14 37-35 37-13 0-19-3-25-7" fill="#f2d6b4"/>
+<path d="M241 174l3-1m8 41c2 17 0 33-4 52" stroke="#9c7357" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M50 280h300" stroke="#aac3a6" stroke-width="2" stroke-linecap="round"/>
+<g stroke="#b3c7ac" stroke-width="2" stroke-linecap="round"><path d="M88 117v12m-6-6h12m196-69v10m-5-5h10m28 106v8m-4-4h8"/></g>
+</svg>

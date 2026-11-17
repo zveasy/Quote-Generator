@@ -1,0 +1,7 @@
+.package/
+.aws-sam/
+*.sqlite*
+__pycache__/
+*.pyc
+samconfig.toml
+.env
